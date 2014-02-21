@@ -1,6 +1,7 @@
 # node-js-sample
 
 This is a barebones Node.js app using the [Express](http://expressjs.com/) framework.
+Deployed at http://whispering-dawn-8080.herokuapp.com
 
 ## Running Locally
 
